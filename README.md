@@ -61,7 +61,7 @@ This project simulates how intelligent prioritization, decomposition, and refine
 ## Demo
 
 Watch the walkthrough: [Loom Video Link]  
-Access the working codebase: [GitHub Repo Link]
+Access the working codebase: [GitHub Repository](https://github.com/abisla/strategic-backlog-ai)
 
 ---
 
@@ -77,9 +77,21 @@ Access the working codebase: [GitHub Repo Link]
 ## Setup Instructions
 
 1. Clone the repo  
+```bash
+git clone https://github.com/abisla/strategic-backlog-ai.git
+cd strategic-backlog-ai
+```
+
 2. Install dependencies  
+```bash
+npm install
+```
+
 3. (Optional) Add `.env` with keys if using external APIs  
-4. Run the app locally via `streamlit run` or preferred framework
+4. Run the app locally  
+```bash
+npm run dev
+```
 
 ---
 
