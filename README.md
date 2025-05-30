@@ -14,15 +14,18 @@ This project simulates how intelligent prioritization, decomposition, and refine
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](![c1](https://github.com/user-attachments/assets/c475fcdd-5893-4305-95ff-cb3fd9e542e6))
+![Main Dashboard](![c1](https://github.com/user-attachments/assets/c475fcdd-5893-4305-95ff-cb3fd9e542e6)
+)
 *Strategic overview of backlog items with AI-powered insights*
 
 ### Processing Pipeline
-![Processing Pipeline](![c2](https://github.com/user-attachments/assets/e8b6b944-c39a-41a5-a07a-218ce65ca3df))
+![Processing Pipeline](![c2](https://github.com/user-attachments/assets/e8b6b944-c39a-41a5-a07a-218ce65ca3df)
+)
 *Real-time AI processing of backlog items*
 
 ### Sprint Recommendations
-![Sprint Recommendations](![c3](https://github.com/user-attachments/assets/8afed855-7412-481b-89b0-6400d9b0784c))
+![Sprint Recommendations](![c3](https://github.com/user-attachments/assets/8afed855-7412-481b-89b0-6400d9b0784c)
+)
 *AI-generated sprint recommendations based on team capacity*
 
 ---
