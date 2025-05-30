@@ -14,8 +14,7 @@ This project simulates how intelligent prioritization, decomposition, and refine
 ## Screenshots
 
 ### Main Dashboard
-![Main Dashboard](![c1](https://github.com/user-attachments/assets/c475fcdd-5893-4305-95ff-cb3fd9e542e6)
-)
+![Main Dashboard](https://github.com/user-attachments/assets/c475fcdd-5893-4305-95ff-cb3fd9e542e6)
 *Strategic overview of backlog items with AI-powered insights*
 
 ### Processing Pipeline
